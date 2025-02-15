@@ -1,0 +1,1 @@
+A structured SQL database with queries and operations performed using Python.
