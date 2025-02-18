@@ -13,8 +13,8 @@ Overview: A structured SQL database with queries and operations performed using 
 - **Luggage** – Tracks baggage details per flight and passenger.  
 
 #### **📂 Files & Implementation**  
-📄 **SQL Script (`airport_db.sql`)** –Database schema with example data.  
-📊 **Jupyter Notebook (`airport_queries.ipynb`)** – Runs SQL queries for data retrieval & insights.  
+📄 **SQL Script (`airport_db.db`)** –Database schema with example data.  
+📊 **Jupyter Notebook (`airport_implementation.ipynb`)** – Runs SQL queries for data retrieval & insights.  
 
 #### **🔍 Example Queries**  
 - Retrieve all flights scheduled for a specific date.  
