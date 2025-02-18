@@ -10,7 +10,7 @@ Each project includes datasets, code, analysis, and visualizations.
    - Designed and implemented a **relational database** for managing an airport’s operations.  
    - Developed in **SQLite** with a Jupyter Notebook interface for queries and analysis.  
 
-### 2️⃣ **[Data Storytelling & Visualization](#)**
+### 2️⃣ **[Data Storytelling & Visualization](./Posters/)**
    - Research poster on **Financial Decisions & Relationship Quality**.  
    - Interactive **Piktochart visualization** summarizing key insights.  
 
