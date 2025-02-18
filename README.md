@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, I showcase my projects, data science skills, and 
 ## 📌 Featured Projects  
 Each project includes datasets, code, analysis, and visualizations.  
 
-### 1️⃣ **[Airport Database Management System (SQL Project)](#)**
+### 1️⃣ **[Airport Database Management System (SQL Project)](.SQL-Project)**
    - Designed and implemented a **relational database** for managing an airport’s operations.  
    - Developed in **SQLite** with a Jupyter Notebook interface for queries and analysis.  
 
